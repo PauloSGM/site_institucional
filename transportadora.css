@@ -1,0 +1,13 @@
+#info {
+
+    font-size: 2em;
+    text-align: center;
+    
+}
+
+body
+{background-image: url(./img/fundo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
