@@ -1,13 +1,16 @@
-#info {
 
-    font-size: 2em;
-    text-align: center;
-    
-}
-
-body
-{background-image: url(./img/fundo.jpg);
+body {
+    background-image: url(./img/fundo.jpg);
 background-repeat: no-repeat;
-background-size: cover;
+background-size: cover;}
+
+#logomarca { 
+    position: absolute right;
+    margin-left: 60px;
+    margin-top: 80px;}
+
+header{
+    padding: 10px 2%;
+    display: flex;
 
 }
