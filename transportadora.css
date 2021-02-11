@@ -2,8 +2,9 @@
 body {
     background-image: url(./img/fundo.jpg);
 background-repeat: no-repeat;
-background-size: cover;}
-
+background-size: cover;
+font-family:Arial, Helvetica, sans-serif ;
+}
 #logomarca { 
     position: absolute right;
     margin-left: 60px;
